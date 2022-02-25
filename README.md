@@ -1,7 +1,5 @@
 # Software Developer
 
-![](https://komarev.com/ghpvc/?username=juanbautista0&color=0078d3)
-
 (ES) Enamorado de la ciencia y la tecnología, hijo de Yolanda y José.
 
 (EN) In love with science and technology, son of Yolanda and Jose.

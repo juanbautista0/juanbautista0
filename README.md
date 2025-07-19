@@ -16,10 +16,3 @@ I am passionate about designing and developing systems with a focus on making pe
   <img src="https://images.credly.com/size/100x100/images/e6029208-54bd-4ae3-8859-c8082624f475/Editable-Insignias-Ingles-Tic.png" alt="English and ICT">
 </a>
 </div>
-
-### last publications
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@juanbautista0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@juanbautista0/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@juanbautista0/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@juanbautista0/1" alt="Recent Article 1"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@juanbautista0/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@juanbautista0/2" alt="Recent Article 2"> 
